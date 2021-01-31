@@ -1,0 +1,1 @@
+<img src="{{asset('storage/anh1.jpg')}}"/>
